@@ -1,0 +1,35 @@
+Vault-AI-Extension-Public-Deployment-Repo/
+│
+├── README.md
+├── ROADMAP.md
+├── ARCHITECTURE.md
+├── FUNTOKEN-DEPLOYMENT.md
+├── PUBLIC-VS-PRIVATE-REPOS.md
+├── STYLE-GUIDE.md
+│
+├── docs/
+│   ├── wiki/
+│   │   ├── Home.md
+│   │   ├── Getting-Started.md
+│   │   ├── Project-Identity.md
+│   │   ├── Vault-Ai-Overview.md
+│   │   ├── Architecture.md
+│   │   ├── Extension-Components.md
+│   │   ├── Tasks-and-Scheduling.md
+│   │   ├── Device-Pairing.md
+│   │   ├── Knowledge-Base.md
+│   │   ├── Public-vs-Private-Repos.md
+│   │   ├── FUNTOKEN-Deployment.md
+│   │   ├── SafeVault-Alignment.md
+│   │   ├── BlackVault-Network-History.md
+│   │   ├── Roadmap.md
+│   │   ├── Glossary.md
+│   │   ├── FAQ.md
+│   │
+│   ├── images/
+│   ├── diagrams/
+│   └── templates/
+│
+└── assets/
+    ├── branding/
+    └── diagrams/
