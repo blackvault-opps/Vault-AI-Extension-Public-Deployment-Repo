@@ -1,11 +1,11 @@
-# Vault AI™ — BlackVault Workspace Copilot
+# Vault AI Workspace Copilot™
 
 **Your work. Your context. Vault AI.**  
 Powered By Intelligent Design™
 
-Vault AI is being developed as a connected workspace assistant for BlackVault Public Network. It helps users understand project information, work with documents and code, organize tasks, and follow evidence through connected workflows.
+**Vault AI Workspace Copilot** is the canonical BlackVault workspace agent/system. **BlackVault Public Network** remains the ecosystem/platform name; **Vault AI** is the short conversational name. Vault AI Workspace Copilot is being developed as a connected workspace assistant for BlackVault Public Network. It helps users understand project information, work with documents and code, organize tasks, and follow evidence through connected workflows.
 
-The current Botpress work configures the **workspace agent**: its instructions, knowledge, conversation flows, tool interfaces, and case records. The browser extension is a planned interface for that agent and its approved workspace tools.
+The current Botpress work configures **Vault AI Workspace Copilot**: its instructions, knowledge, conversation flows, tool interfaces, and case records. The browser extension is a planned interface for that agent and its approved workspace tools.
 
 ## The planned experience
 
@@ -29,7 +29,7 @@ The primary design uses an ERC-4337-style account model. Optional EIP-7702 suppo
 
 Assets remain recorded on their respective blockchains. Homebase brings those records into a coordinated interface; signing in does not merge accounts or transfer balances.
 
-Vault AI provides assistance and evidence. The wallet/account system manages signing credentials and validates authorization. Workspace access, token-owner roles, and a user's wallet permissions remain distinct. The primary workspace is owner-focused; any future user-facing agent must use its own scoped workspace and account access.
+Vault AI Workspace Copilot provides assistance and evidence. The wallet/account system manages signing credentials and validates authorization. Workspace access, token-owner roles, and a user's wallet permissions remain distinct. The primary workspace is owner-focused; any future user-facing agent must use its own scoped workspace and account access.
 
 ## Network context
 
@@ -64,4 +64,4 @@ The Botpress configuration and TypeScript discovery-action sources are maintaine
 
 Repository maintenance follows explicit owner authorization for the requested changes. Publication and deployment are recorded separately.
 
-Updated 2026-09-18. Copyright © 2026 BlackVault Public Network. All rights reserved.
+Updated 2026-09-20. Copyright © 2026 BlackVault Public Network. All rights reserved.
