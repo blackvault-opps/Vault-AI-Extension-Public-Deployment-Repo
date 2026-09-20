@@ -1,35 +1,13 @@
-Vault-AI-Extension-Public-Deployment-Repo/
-│
-├── README.md
-├── ROADMAP.md
-├── ARCHITECTURE.md
-├── FUNTOKEN-DEPLOYMENT.md
-├── PUBLIC-VS-PRIVATE-REPOS.md
-├── STYLE-GUIDE.md
-│
-├── docs/
-│   ├── wiki/
-│   │   ├── Home.md
-│   │   ├── Getting-Started.md
-│   │   ├── Project-Identity.md
-│   │   ├── Vault-Ai-Overview.md
-│   │   ├── Architecture.md
-│   │   ├── Extension-Components.md
-│   │   ├── Tasks-and-Scheduling.md
-│   │   ├── Device-Pairing.md
-│   │   ├── Knowledge-Base.md
-│   │   ├── Public-vs-Private-Repos.md
-│   │   ├── FUNTOKEN-Deployment.md
-│   │   ├── SafeVault-Alignment.md
-│   │   ├── BlackVault-Network-History.md
-│   │   ├── Roadmap.md
-│   │   ├── Glossary.md
-│   │   ├── FAQ.md
-│   │
-│   ├── images/
-│   ├── diagrams/
-│   └── templates/
-│
-└── assets/
-    ├── branding/
-    └── diagrams/
+# Vault AI — Repository Listing
+
+## Present documentation
+
+- [README.md](README.md) — product overview, workspace scope, development position, and project links.
+- [Architecture](docs/ARCHITECTURE.md) — SafeVault wallet layers, agent responsibilities, and evidence model.
+- This listing — current contents and future packaging direction.
+
+## Planned implementation outputs
+
+Browser-extension source and manifest, interface assets, installation package, device pairing, scheduling, and connector implementations remain future outputs. Earlier directory sketches were proposals; they did not establish that those files were present.
+
+The Botpress configuration and discovery sources are maintained in the separate application implementation repository. Public documentation remains focused on the user's experience and product architecture.
